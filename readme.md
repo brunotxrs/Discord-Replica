@@ -19,17 +19,8 @@ O desenvolvimento foi guiado pelo **Protótipo no Figma** fornecido pela Expert 
 
 ## 🛠️ Tecnologias Utilizadas
 
-
-<pre style="column-count: 2; column-rule-style: solid;column-rule-color: gray; background-color: #fff;">
-    
-    <a href="https://www.w3schools.com/html/default.asp" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="60" /></a>
-    <span style="color: #000;">A estrutura semântica da página, garantindo organização e acessibilidade.</span>
-
-    <div style="margin-left: 20px">
-    <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="60" /></a>
-    <span style="color: #000;">Onde toda a mágica da estilização acontece, com foco intenso em <strong>Responsividade</strong> e a metodologia <strong>Mobile-First</strong> através de <strong>Media Queries</strong>.</span>
-    </div>
-</pre>
+  * **HTML5:** A estrutura semântica da página, garantindo organização e acessibilidade.
+  * **CSS3:** Onde toda a mágica da estilização acontece, com foco intenso em **Responsividade** e a metodologia **Mobile-First** através de **Media Queries**.
 
 -----
 
