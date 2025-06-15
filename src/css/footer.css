@@ -1,0 +1,46 @@
+footer {
+    background-color: var(--color-secondary);
+    height: 8.75rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+
+    figure {
+        margin: 0;
+        width: 10.125rem;
+        height: 2.8125rem;
+        cursor: pointer;
+
+        img {
+            width: 10.125rem;
+            height: 2.8125rem;
+        }
+    }
+
+}
+
+@media screen and (min-width: 48rem) {
+
+    footer {
+        background-color: var(--color-secondary);
+        height: 8.375rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: auto;
+
+        figure {
+            margin: 0;
+            width: 14.375rem;
+            height: 3.9375rem;
+
+            img {
+                width: 14.375rem;
+                height: 3.9375rem;
+            }
+        }
+
+    }
+    
+}
