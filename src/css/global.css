@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+:root {
+    --font-title: "Luckiest Guy", cursive;
+    --font-size-title: 32px;
+
+    --font-paragraph: "Open Sans", sans-serif;
+    --font-size-paragraph: 16px;
+    --font-weight-paragraph: 500;
+    --font-size-subtitle: 24px;
+    --font-weight-subtile: 900;
+
+    --color-primary: #FFFFFF;
+    --color-secondary: #23272A;
+    --color-third: #F6F6F6;
+}
+
+html {
+    scrollbar-width: none;
+}
+
+
+/* screens Desktop */
+@media screen and (min-width: 1024px) {
+
+    :root {
+        --font-size-title: 56px;
+        --font-size-subtitle: 40px;
+    }
+
+    html {
+        scrollbar-width: auto;
+    }
+}
