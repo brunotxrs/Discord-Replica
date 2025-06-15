@@ -10,12 +10,12 @@
 
 :root {
     --font-title: "Luckiest Guy", cursive;
-    --font-size-title: 32px;
+    --font-size-title: 2rem;
 
     --font-paragraph: "Open Sans", sans-serif;
-    --font-size-paragraph: 16px;
+    --font-size-paragraph: 1rem;
     --font-weight: 100;
-    --font-size-subtitle: 24px;
+    --font-size-subtitle: 1.5rem;
     --font-weight-subtile: 900;
     --letter-spacing: 0;
     --line-height: auto;
@@ -29,13 +29,17 @@ html {
     scrollbar-width: none;
 }
 
+body {
+    user-select: none;
+}
+
 
 /* screens Desktop */
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 64rem) {
 
     :root {
-        --font-size-title: 56px;
-        --font-size-subtitle: 40px;
+        --font-size-title: 3.5rem;
+        --font-size-subtitle: 2.5rem;
     }
 
     html {
