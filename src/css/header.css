@@ -54,6 +54,7 @@ header {
                 color: var(--color-secondary);
                 font-size: var(--font-size-paragraph);
                 outline: none;
+                cursor: pointer;
 
             }
 
@@ -67,13 +68,14 @@ header {
                 color: var(--color-primary);
                 font-size: var(--font-size-paragraph);
                 outline: none;
+                cursor: pointer;
             }
 
         }
     }
 }
 
-@media screen and (min-width: 64rem) {
+@media screen and (min-width: 768px) {
 
     header {
         width: 100%;
